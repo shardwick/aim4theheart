@@ -1,2 +1,2 @@
 # aim4theheart
-“HeArt Education” ; Our mission is to provide sovereign data management via web interfaces. 
+“HeArt Education” ; Our mission is to provide artist sovereign heArt education. 
